@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-goty-8d60d": {
+      "hosting": {
+        "goty": [
+          "firestore-goty-8d60d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-goty-8d60d"
+  }
+}
